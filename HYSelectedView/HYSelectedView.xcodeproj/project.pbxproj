@@ -16,12 +16,12 @@
 		56B22C0D1E3082320046A8F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56B22C0B1E3082320046A8F7 /* LaunchScreen.storyboard */; };
 		56B22C181E3082320046A8F7 /* HYSelectedViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 56B22C171E3082320046A8F7 /* HYSelectedViewTests.m */; };
 		56B22C231E3082320046A8F7 /* HYSelectedViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 56B22C221E3082320046A8F7 /* HYSelectedViewUITests.m */; };
-		56B22C341E3082840046A8F7 /* HYSelectedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 56B22C311E3082840046A8F7 /* HYSelectedButton.m */; };
-		56B22C351E3082840046A8F7 /* HYSelectedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 56B22C311E3082840046A8F7 /* HYSelectedButton.m */; };
-		56B22C361E3082840046A8F7 /* HYSelectedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 56B22C311E3082840046A8F7 /* HYSelectedButton.m */; };
-		56B22C371E3082840046A8F7 /* HYSelectedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 56B22C331E3082840046A8F7 /* HYSelectedView.m */; };
-		56B22C381E3082840046A8F7 /* HYSelectedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 56B22C331E3082840046A8F7 /* HYSelectedView.m */; };
-		56B22C391E3082840046A8F7 /* HYSelectedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 56B22C331E3082840046A8F7 /* HYSelectedView.m */; };
+		56BDEC831E5E86C400740AB9 /* HYSelectedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 56BDEC801E5E86C400740AB9 /* HYSelectedButton.m */; };
+		56BDEC841E5E86C400740AB9 /* HYSelectedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 56BDEC801E5E86C400740AB9 /* HYSelectedButton.m */; };
+		56BDEC851E5E86C400740AB9 /* HYSelectedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 56BDEC801E5E86C400740AB9 /* HYSelectedButton.m */; };
+		56BDEC861E5E86C400740AB9 /* HYSelectedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 56BDEC821E5E86C400740AB9 /* HYSelectedView.m */; };
+		56BDEC871E5E86C400740AB9 /* HYSelectedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 56BDEC821E5E86C400740AB9 /* HYSelectedView.m */; };
+		56BDEC881E5E86C400740AB9 /* HYSelectedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 56BDEC821E5E86C400740AB9 /* HYSelectedView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,10 +59,10 @@
 		56B22C1E1E3082320046A8F7 /* HYSelectedViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HYSelectedViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		56B22C221E3082320046A8F7 /* HYSelectedViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HYSelectedViewUITests.m; sourceTree = "<group>"; };
 		56B22C241E3082320046A8F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		56B22C301E3082840046A8F7 /* HYSelectedButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYSelectedButton.h; sourceTree = "<group>"; };
-		56B22C311E3082840046A8F7 /* HYSelectedButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYSelectedButton.m; sourceTree = "<group>"; };
-		56B22C321E3082840046A8F7 /* HYSelectedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYSelectedView.h; sourceTree = "<group>"; };
-		56B22C331E3082840046A8F7 /* HYSelectedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYSelectedView.m; sourceTree = "<group>"; };
+		56BDEC7F1E5E86C400740AB9 /* HYSelectedButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYSelectedButton.h; sourceTree = "<group>"; };
+		56BDEC801E5E86C400740AB9 /* HYSelectedButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYSelectedButton.m; sourceTree = "<group>"; };
+		56BDEC811E5E86C400740AB9 /* HYSelectedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYSelectedView.h; sourceTree = "<group>"; };
+		56BDEC821E5E86C400740AB9 /* HYSelectedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYSelectedView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,10 +117,10 @@
 				56B22BFE1E3082310046A8F7 /* AppDelegate.m */,
 				56B22C001E3082310046A8F7 /* ViewController.h */,
 				56B22C011E3082310046A8F7 /* ViewController.m */,
-				56B22C301E3082840046A8F7 /* HYSelectedButton.h */,
-				56B22C311E3082840046A8F7 /* HYSelectedButton.m */,
-				56B22C321E3082840046A8F7 /* HYSelectedView.h */,
-				56B22C331E3082840046A8F7 /* HYSelectedView.m */,
+				56BDEC7F1E5E86C400740AB9 /* HYSelectedButton.h */,
+				56BDEC801E5E86C400740AB9 /* HYSelectedButton.m */,
+				56BDEC811E5E86C400740AB9 /* HYSelectedView.h */,
+				56BDEC821E5E86C400740AB9 /* HYSelectedView.m */,
 				56B22C031E3082310046A8F7 /* Main.storyboard */,
 				56B22C091E3082320046A8F7 /* Assets.xcassets */,
 				56B22C0B1E3082320046A8F7 /* LaunchScreen.storyboard */,
@@ -290,8 +290,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56B22C371E3082840046A8F7 /* HYSelectedView.m in Sources */,
-				56B22C341E3082840046A8F7 /* HYSelectedButton.m in Sources */,
+				56BDEC861E5E86C400740AB9 /* HYSelectedView.m in Sources */,
+				56BDEC831E5E86C400740AB9 /* HYSelectedButton.m in Sources */,
 				56B22C081E3082310046A8F7 /* HYSelectedView.xcdatamodeld in Sources */,
 				56B22C021E3082310046A8F7 /* ViewController.m in Sources */,
 				56B22BFF1E3082310046A8F7 /* AppDelegate.m in Sources */,
@@ -303,9 +303,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56B22C381E3082840046A8F7 /* HYSelectedView.m in Sources */,
+				56BDEC871E5E86C400740AB9 /* HYSelectedView.m in Sources */,
 				56B22C181E3082320046A8F7 /* HYSelectedViewTests.m in Sources */,
-				56B22C351E3082840046A8F7 /* HYSelectedButton.m in Sources */,
+				56BDEC841E5E86C400740AB9 /* HYSelectedButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,9 +313,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56B22C391E3082840046A8F7 /* HYSelectedView.m in Sources */,
+				56BDEC881E5E86C400740AB9 /* HYSelectedView.m in Sources */,
 				56B22C231E3082320046A8F7 /* HYSelectedViewUITests.m in Sources */,
-				56B22C361E3082840046A8F7 /* HYSelectedButton.m in Sources */,
+				56BDEC851E5E86C400740AB9 /* HYSelectedButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -531,6 +531,7 @@
 				56B22C291E3082320046A8F7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		56B22C2A1E3082320046A8F7 /* Build configuration list for PBXNativeTarget "HYSelectedViewTests" */ = {
 			isa = XCConfigurationList;
@@ -539,6 +540,7 @@
 				56B22C2C1E3082320046A8F7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		56B22C2D1E3082320046A8F7 /* Build configuration list for PBXNativeTarget "HYSelectedViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -547,6 +549,7 @@
 				56B22C2F1E3082320046A8F7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
